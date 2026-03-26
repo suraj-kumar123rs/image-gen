@@ -1,0 +1,6 @@
+{
+  "prompt": "An archery range, late afternoon golden light, two identical straw targets side by side. Left target: a tight cluster of arrows all grouped together in the upper-left corner of the target, far from the bullseye — precise but consistently wrong. Right target: arrows scattered across the entire face of the target, some near the bullseye, some at the edges — spread all over but centered around the middle. Weathered wooden targets, real arrows with feathered fletching, dry grass ground, natural outdoor setting. No people, no text, no labels. Photorealistic, cinematic, wide shot, warm afternoon light.",
+  "model": "DALL-E 3",
+  "concept": "bias-variance tradeoff",
+  "metaphor": "Two archery targets: left shows arrows tightly clustered but far from center (high bias, low variance); right shows arrows spread widely but centered on bullseye (low bias, high variance)."
+}
