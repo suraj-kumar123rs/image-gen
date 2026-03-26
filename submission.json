@@ -1,12 +1,7 @@
 {
-  "prompt": "Aerial view looking straight down into the dark Mediterranean Sea at night, the water surface scattered with thousands of small personal objects — worn shoes, a child's toy, folded clothing, a single photograph — floating silently...",
-  "model": "Midjourney v6.1",
+  "prompt": "Aerial straight-down view of the dark Mediterranean Sea at night. Hundreds of small personal belongings floating on the black water — worn leather shoes, a child's stuffed toy, folded clothing, a water-damaged photograph. Objects sparse near the viewer, growing impossibly dense toward the horizon. Deep blue-black water, cold moonlight. No boats, no people, no text, no land. Feels like a graveyard. Photorealistic, cinematic.",
+  "model": "DALL-E 3",
   "dataset_name": "IOM Missing Migrants Project — Mediterranean Region",
   "dataset_url": "https://missingmigrants.iom.int/region/mediterranean",
   "insight": "Of the 34,400+ people who have died crossing the Mediterranean since 2014, the vast majority were never found — they became part of the sea itself, unrecovered and unnamed."
 }
-```
-
-**Step 4 — Paste both raw URLs into the submission box**, separated by a space:
-```
-https://raw.githubusercontent.com/you/repo/main/image.png  https://raw.githubusercontent.com/you/repo/main/submission.json
