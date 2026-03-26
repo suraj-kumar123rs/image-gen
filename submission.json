@@ -1,0 +1,12 @@
+{
+  "prompt": "Aerial view looking straight down into the dark Mediterranean Sea at night, the water surface scattered with thousands of small personal objects — worn shoes, a child's toy, folded clothing, a single photograph — floating silently...",
+  "model": "Midjourney v6.1",
+  "dataset_name": "IOM Missing Migrants Project — Mediterranean Region",
+  "dataset_url": "https://missingmigrants.iom.int/region/mediterranean",
+  "insight": "Of the 34,400+ people who have died crossing the Mediterranean since 2014, the vast majority were never found — they became part of the sea itself, unrecovered and unnamed."
+}
+```
+
+**Step 4 — Paste both raw URLs into the submission box**, separated by a space:
+```
+https://raw.githubusercontent.com/you/repo/main/image.png  https://raw.githubusercontent.com/you/repo/main/submission.json
